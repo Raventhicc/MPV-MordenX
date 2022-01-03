@@ -4,7 +4,7 @@ Pre-configured MPV for anime to save time and be more convenient.
 ## Installation
 - Clone this repository or download and unzip wherever you want.
 - Run `mpv-install.bat` as administrator located in the `installer` folder.
-- Modify [`mpv.conf`](https://github.com/Raventhicc/MPV-Modern-X/blob/main/portable_config/mpv.conf "mpv.conf")  according to your preferences.
+- Modify [`mpv.conf`](https://github.com/Raventhicc/MPV-Morden-X/blob/main/portable_config/mpv.conf "mpv.conf")  according to your preferences.
 
 ## Included Scripts
 - [auto-profiles](https://github.com/Moodkiller/MPV-Made-Easy/blob/master/scripts/auto-profiles.lua "auto-profiles")
@@ -16,7 +16,10 @@ Pre-configured MPV for anime to save time and be more convenient.
 - [videoclip](https://github.com/Ajatt-Tools/videoclip "videoclip")
 
 ## Included Shaders
-- [Anime4k](https://github.com/bloc97/Anime4K "Anime4k")
+- [Anime4k](https://github.com/bloc97/Anime4K "Anime4k") - Check Keybinds.
+- [KrigBilateral-new](https://github.com/Ichunjo/mpv-config/tree/master/Shaders "KrigBilateral-new") - Activates automatically whenever pixel format is `yuv420p12` or `yuv420p10` or `yuv420p`.
+- [KrigBilateral-new-444](https://github.com/Ichunjo/mpv-config/tree/master/Shaders "KrigBilateral-new-444") - Activates automatically whenever pixel format is `yuv444p10`.
+- [nnedi3-nns256-win8x4](https://github.com/bjin/mpv-prescalers/blob/master/nnedi3-nns256-win8x4.hook "nnedi3-nns256-win8x4") - Activates automatically whenever content resolution is lower than screen resolution.
 
 ## Custom Keybinds
 **General**
