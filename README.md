@@ -1,5 +1,5 @@
 # MPV-Modern-X
-Pre-configured MPV for anime to save time and be more convenient.
+Pre-configured MPV for anime to save time and be more convenient and act as my backup.
 [![OSC](https://github.com/cyl0/mpv-osc-morden-x/blob/main/preview.png "OSC")](https://github.com/cyl0/mpv-osc-morden-x "OSC")
 ## Installation
 - Clone this repository or download and unzip wherever you want.
