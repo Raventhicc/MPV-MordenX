@@ -1,4 +1,4 @@
-# MPV-Modern-X
+# MPV-MordenX
 Pre-configured MPV for anime to save time, be more convenient and act as my backup.
 [![OSC](https://github.com/cyl0/MordenX/blob/main/preview.png "OSC")](https://github.com/cyl0/mpv-osc-morden-x "OSC")
 ## Installation
@@ -11,7 +11,7 @@ Pre-configured MPV for anime to save time, be more convenient and act as my back
 - [autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua "autoload")
 - [cycle-commands](https://github.com/CogentRedTester/mpv-scripts/blob/master/cycle-commands.lua "cycle-commands")
 - [cycle-profile](https://github.com/CogentRedTester/mpv-scripts/blob/master/cycle-profile.lua "cycle-profile")
-- [mordenx](https://github.com/cyl0/mpv-osc-morden-x "mordenx")
+- [cyl0's mordenx](https://github.com/cyl0/mpv-osc-morden-x "mordenx") (OSC)
 - [playlistmanager](https://github.com/jonniek/mpv-playlistmanager "playlistmanager")
 - [videoclip](https://github.com/Ajatt-Tools/videoclip "videoclip")
 
