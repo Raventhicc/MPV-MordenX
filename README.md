@@ -1,6 +1,6 @@
 # MPV-Modern-X
 Pre-configured MPV for anime to save time, be more convenient and act as my backup.
-[![OSC](https://github.com/cyl0/mpv-osc-morden-x/blob/main/preview.png "OSC")](https://github.com/cyl0/mpv-osc-morden-x "OSC")
+[![OSC](https://github.com/cyl0/MordenX/blob/main/preview.png "OSC")](https://github.com/cyl0/mpv-osc-morden-x "OSC")
 ## Installation
 - Clone this repository or download and unzip wherever you want.
 - Run `mpv-install.bat` as administrator located in the `installer` folder.
@@ -19,8 +19,8 @@ Pre-configured MPV for anime to save time, be more convenient and act as my back
 - [Anime4k](https://github.com/bloc97/Anime4K "Anime4k") - Check Keybinds.
 - [KrigBilateral-new](https://github.com/Ichunjo/mpv-config/tree/master/Shaders "KrigBilateral-new") - Activates automatically whenever pixel format is `yuv420p12` or `yuv420p10` or `yuv420p`.
 - [KrigBilateral-new-444](https://github.com/Ichunjo/mpv-config/tree/master/Shaders "KrigBilateral-new-444") - Activates automatically whenever pixel format is `yuv444p10`.
-- [nnedi3-nns256-win8x4](https://github.com/bjin/mpv-prescalers/blob/master/nnedi3-nns256-win8x4.hook "nnedi3-nns256-win8x4") - Activates automatically whenever content resolution is lower than screen resolution.
-
+- [nnedi3-nns128-win8x4](https://github.com/bjin/mpv-prescalers/blob/master/nnedi3-nns128-win8x4.hook "nnedi3-nns128-win8x4") (default) - Activates automatically whenever content resolution is lower than screen resolution.
+- [nnedi3-nns256-win8x4](https://github.com/bjin/mpv-prescalers/blob/master/nnedi3-nns256-win8x4.hook "nnedi3-nns256-win8x4") - Included.
 ## Custom Keybinds
 **General**
 - `l` *cycle-values loop "yes" "no"*
