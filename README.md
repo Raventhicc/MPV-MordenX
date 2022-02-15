@@ -1,6 +1,6 @@
 # MPV-Modern-X
 Pre-configured MPV for anime to save time, be more convenient and act as my backup.
-[![OSC](https://github.com/Raventhicc/MPV-Morden-X/blob/main/preview.png "OSC")](https://github.com/cyl0/mpv-osc-morden-x "OSC")
+[![OSC](https://github.com/cyl0/MordenX/blob/main/preview.png "OSC")](https://github.com/cyl0/mpv-osc-morden-x "OSC")
 ## Installation
 - Clone this repository or download and unzip wherever you want.
 - Run `mpv-install.bat` as administrator located in the `installer` folder.
