@@ -20,7 +20,7 @@ Pre-configured MPV for anime to save time, be more convenient and act as my back
 - [KrigBilateral-new](https://github.com/Ichunjo/mpv-config/tree/master/Shaders "KrigBilateral-new") - Activates automatically whenever pixel format is `yuv420p12` or `yuv420p10` or `yuv420p`.
 - [KrigBilateral-new-444](https://github.com/Ichunjo/mpv-config/tree/master/Shaders "KrigBilateral-new-444") - Activates automatically whenever pixel format is `yuv444p10`.
 - [nnedi3-nns128-win8x4](https://github.com/bjin/mpv-prescalers/blob/master/nnedi3-nns128-win8x4.hook "nnedi3-nns128-win8x4") (default) - Activates automatically whenever content resolution is lower than screen resolution.
-- [nnedi3-nns256-win8x4](https://github.com/bjin/mpv-prescalers/blob/master/nnedi3-nns256-win8x4.hook "nnedi3-nns256-win8x4") - Included.
+- [nnedi3-nns256-win8x4](https://github.com/bjin/mpv-prescalers/blob/master/nnedi3-nns256-win8x4.hook "nnedi3-nns256-win8x4") - Higher end version.
 - [SSimDownscaler](https://github.com/LightArrowsEXE/dotfiles/blob/master/mpv/.config/mpv/shaders/SSimDownscaler.glsl "SSimDownscaler") - Luma downscaler. Activates automatically.
 ## Custom Keybinds
 **General**
